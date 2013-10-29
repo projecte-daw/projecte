@@ -39,4 +39,4 @@ public class projecte {
 ··················\ /··················
 
 VISIT OUR WEB PAGE:
-http://www.fotokristall.narod.ru/mov0001.swf
+http://goo.gl/pEu3E
